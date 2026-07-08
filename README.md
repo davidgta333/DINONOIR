@@ -13,5 +13,8 @@ This game contains Dialogue mechanic, a hub with selectable levels, jumping and 
 HOW IT WORKS
 The game was made in Unity, using c# coding language. I decided to use Unity because i was already familiar with the interface. 
 
+CREDITS
+I used Unity for the game engine. The code, art and soundtrack is done entirely by me.
+
 LINK
 You can also download the game on itch.io:https://davidgta333.itch.io/dino-noir
